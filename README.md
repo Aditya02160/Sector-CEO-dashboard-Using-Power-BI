@@ -7,7 +7,7 @@ KPIs to include:
 Make a visualisaƟ on having project counts by ’On-track’,’ Risk of Delay’, ‘Delayed’, ‘Not yet 
 started’. 
 4. A clustered bar-graph for Category and Area of concern.
-5. A table with ExecuƟ on status
+5. A table with Execution status
 6. Slicers for the below as a dropdown menu.
 a. Priority 
 b. Project Level 
